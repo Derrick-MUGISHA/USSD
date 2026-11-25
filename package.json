@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "africastalking": "^0.7.7",
+    "africastalking": "^0.8.4",
     "body-parser": "^2.2.0",
     "express": "^5.1.0"
   }
